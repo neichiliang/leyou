@@ -6,7 +6,7 @@ import org.apache.ibatis.annotations.Mapper;
 /**
  * @program: user-service-demo
  * @description:
- * @author: zxb
+ * @author: ncl
  * @create: 2020-05-19 14:23
  **/
 @Mapper
